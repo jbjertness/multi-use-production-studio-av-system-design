@@ -20,16 +20,17 @@ The studio supports:
 - Dante audio network
 - Tesira Forte DSP
 - vMix streaming workstation
+- Netgear AV line M4250 switches
 
 ## Tools Used
 
 - diagrams.net (draw.io)
-- Blackmagic ATEM
 - Dante Controller
 - Biamp Tesira Software
 - NDI
 - vMix
+- Reaper
 
 ## Purpose
 
-This project demonstrates broadcast system design and AV infrastructure architecture.
+This project is a template for designing a flexible, reliable, and cost-conscious broadcast system that can support a wide range of production scenarios.
