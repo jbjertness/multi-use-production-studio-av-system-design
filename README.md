@@ -17,7 +17,7 @@ The system leverages modern broadcast and AV technologies such as Dante, NDI, PO
 The studio supports:
 The studio is designed around a centralized production control room that manages audio mixing, video switching, recording, and live streaming for an attached live room and seperated event space. 
 
-![Studio System Diagram](main/studio-system-diagram.png)
+![Studio System Diagram](studio-system-diagram.png)
 
 ## Audio System
 The audio system is centered around the Allen & Heath SQ-5 digital mixer with Dante networking for flexible routing between rooms.
